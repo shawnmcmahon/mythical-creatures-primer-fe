@@ -3,7 +3,7 @@ Get better at reading errors in JavaScript.
 
 ## Directions
 1. Clone and cd into this repo.
-2. Run the file with the command: `node yeti.rb`. 
+2. Run the file with the command: `node yeti.js`. 
 3. Write down what you think the error message means.
 4. Fix the error.
 5. Repeat step 2-4 until there are no more errors. You will know you are making progress if the error messages change.
