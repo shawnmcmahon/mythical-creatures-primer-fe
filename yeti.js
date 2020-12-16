@@ -19,7 +19,7 @@ class Yeti {
     this.reindeers_eaten.count
   }
 
-  isHungry {
+  isHungry() { 
     if (this.weight > 300) {
       return false
     } else {
